@@ -3,7 +3,6 @@
 🐧 I'm a lawyer and animal advocate who discovered a new love for solving problems through programming. 
 
 👯 I'm currently collaborating on a web app for an Australian charity that will make it easier for people to pay it forward for those in need.   
-
 - **I love using**: JavaScript, React, TypeScript 🎨 
 - **I also have experience with**: Python, SQL, C 🌱 
 - **I'm learning next**: Redux, AWS 🔥
