@@ -1,10 +1,18 @@
-### Hi there 👋
+### 🌈 Hi, I'm Jen 
+
+🐧 I'm a lawyer and animal advocate who discovered a new love for solving problems through programming. 
+
+👯 I'm currently collaborating on a web app for an Australian charity that will make it easier for people to pay it forward for those in need.   
+
+- **I love using**: JavaScript, React, TypeScript 🎨 
+- **I also have experience with**: Python, SQL, C 🌱 
+- **I'm learning next**: Redux, AWS 🔥
+- **Highlights**: Part of the winning team in Girls in Tech [#Hack4Health](https://www.linkedin.com/feed/hashtag/?keywords=hack4health&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A6727173156987121664) (Oct 2020) and Telstra Health [#H4DH](https://www.linkedin.com/feed/hashtag/?keywords=h4dh&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A6738980194578767872) (Nov 2020) ⚡
+- **Get in touch**: [LinkedIn](https://www.linkedin.com/in/jennifer-lam-b609a062/) 📧
 
 <!--
-**jen-la/jen-la** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+👋
+✨
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -13,4 +21,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+💼  
 -->
