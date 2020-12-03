@@ -6,5 +6,5 @@
 - **I love using**: JavaScript, React, TypeScript 🎨 
 - **I also have experience with**: Python, SQL, C 🌱 
 - **I'm learning next**: Redux, AWS 🔥
-- **Highlights**: Part of the winning team in Girls in Tech [#Hack4Health](https://www.linkedin.com/feed/hashtag/?keywords=hack4health&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A6727173156987121664) (Oct 2020) and Telstra Health [#H4DH](https://www.linkedin.com/feed/hashtag/?keywords=h4dh&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A6738980194578767872) (Nov 2020) ⚡
+- **Tech highlights**: Part of the winning team in Girls in Tech [#Hack4Health](https://www.linkedin.com/feed/hashtag/?keywords=hack4health&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A6727173156987121664) (Oct 2020) and Telstra Health [#H4DH](https://www.linkedin.com/feed/hashtag/?keywords=h4dh&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A6738980194578767872) (Nov 2020) ⚡
 - **Get in touch**: [LinkedIn](https://www.linkedin.com/in/jennifer-lam-b609a062/) 📧
