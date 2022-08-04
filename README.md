@@ -1,6 +1,6 @@
 ### 🌈 Hi, I'm Jen 
 
-🐧 I'm a former lawyer and animal advocate who discovered a new love for solving problems through programming. 
+🐧 I'm a commercial lawyer and animal advocate who discovered a new love for solving problems through programming. 
 
 👯 I develop responsive web applications for SnowPak, a top-rated online destination for ski and snowboarding enthusiasts to book their next holiday. I'm also collaborating on a web app for an Australian charity that will help people pay it forward for others in need.   
 - **I love using**: JavaScript, React, Next.js, TypeScript, GraphQL 
